@@ -1,7 +1,5 @@
-# Uncomment the next line to define a global platform for your project
-# platform :ios, '9.0'
-
 target 'MyReactNativeTypeScriptApp' do
+  # Pods for MyReactNativeTypeScriptApp
 
   pod 'yoga', :path => '../node_modules/react-native/ReactCommon/yoga'
 
@@ -12,7 +10,6 @@ target 'MyReactNativeTypeScriptApp' do
   ]
   
   # We'll add the react-native-sqlite-storage package during a later post here
-  # pod 'react-native-sqlite-storage', :path => '../node_modules/react-native-sqlite-storage'
 
 end
 

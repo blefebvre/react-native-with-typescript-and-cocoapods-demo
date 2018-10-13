@@ -1,24 +1,24 @@
 PODS:
-  - React/Core (0.57.2):
-    - yoga (= 0.57.2.React)
-  - React/DevSupport (0.57.2):
+  - React/Core (0.57.3):
+    - yoga (= 0.57.3.React)
+  - React/DevSupport (0.57.3):
     - React/Core
     - React/RCTWebSocket
-  - React/fishhook (0.57.2)
-  - React/RCTBlob (0.57.2):
+  - React/fishhook (0.57.3)
+  - React/RCTBlob (0.57.3):
     - React/Core
-  - React/RCTImage (0.57.2):
+  - React/RCTImage (0.57.3):
     - React/Core
     - React/RCTNetwork
-  - React/RCTLinkingIOS (0.57.2):
+  - React/RCTLinkingIOS (0.57.3):
     - React/Core
-  - React/RCTNetwork (0.57.2):
+  - React/RCTNetwork (0.57.3):
     - React/Core
-  - React/RCTWebSocket (0.57.2):
+  - React/RCTWebSocket (0.57.3):
     - React/Core
     - React/fishhook
     - React/RCTBlob
-  - yoga (0.57.2.React)
+  - yoga (0.57.3.React)
 
 DEPENDENCIES:
   - React/DevSupport (from `../node_modules/react-native`)
@@ -36,6 +36,6 @@ SPEC CHECKSUMS:
   React: 1fe0eb13d90b625d94c3b117c274dcfd2e760e11
   yoga: b1ce48b6cf950b98deae82838f5173ea7cf89e85
 
-PODFILE CHECKSUM: 61d0bc8efd253b4d9b251f8a42e12445f0dcadf0
+PODFILE CHECKSUM: 42764e8a6bd1c2ac388e75ea84c1113360fb8337
 
 COCOAPODS: 1.4.0
